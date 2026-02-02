@@ -89,12 +89,13 @@ Recrutadores técnicos e gestores de dados
 
 ## 📂 Projetos Disponíveis
 
-| Projeto | Tema | Técnicas |
-|------|------|--------|
-| Dimensionalidade_Imagens.ipynb | Redução de dimensionalidade em imagens | PCA, CNN, embeddings |
-| MATRIZ_CONFUSAO.ipynb | Avaliação de classificadores | Matriz de confusão, métricas |
-| RECONHECIMENTO_FACIAL.ipynb | Visão computacional | CNN, detecção facial |
-| Instrumentos.ipynb | Fundamentos de ML | Pré-processamento, modelos |
+| Projeto | Tema | Técnicas | Colab |
+|-------|------|---------|-------|
+| Dimensionalidade_Imagens.ipynb | Redução de dimensionalidade aplicada a imagens | PCA, CNN, embeddings | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Dimensionalidade_Imagens.ipynb) |
+| MATRIZ_CONFUSAO.ipynb | Avaliação de modelos de classificação | Matriz de confusão, métricas | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/MATRIZ_CONFUSAO.ipynb) |
+| RECONHECIMENTO_FACIAL.ipynb | Reconhecimento facial e visão computacional | CNN, detecção facial | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
+| Instrumentos.ipynb | Fundamentos de Machine Learning | Pré-processamento, modelos | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
+
 
 
 # 🇺🇸 English Version
@@ -192,10 +193,21 @@ Technical recruiters and data leaders
 
 ##📂 🇺🇸 Available Projects
 
-| Project | Topic | Techniques |
-|--------|-------|-----------|
-| Dimensionalidade_Imagens.ipynb | Image dimensionality reduction | PCA, CNN, embeddings |
-| MATRIZ_CONFUSAO.ipynb | Classification model evaluation | Confusion matrix, metrics |
-| RECONHECIMENTO_FACIAL.ipynb | Facial recognition and computer vision | CNN, face detection |
-| Instrumentos.ipynb | Machine Learning fundamentals | Preprocessing, models |
+| Project | Topic | Techniques | Colab |
+|--------|-------|-----------|-------|
+| Dimensionalidade_Imagens.ipynb | Image dimensionality reduction | PCA, CNN, embeddings | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Dimensionalidade_Imagens.ipynb) |
+| MATRIZ_CONFUSAO.ipynb | Classification model evaluation | Confusion matrix, metrics | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/MATRIZ_CONFUSAO.ipynb) |
+| RECONHECIMENTO_FACIAL.ipynb | Facial recognition and computer vision | CNN, face detection | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
+| Instrumentos.ipynb | Machine Learning fundamentals | Preprocessing, models | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
+
+
+
+
+
+
+
+
+
+
+
 
