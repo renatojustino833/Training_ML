@@ -96,6 +96,7 @@ Recrutadores técnicos e gestores de dados
 | RECONHECIMENTO_FACIAL.ipynb | Reconhecimento Facial e Visão Computacional | CNN, Detecção Facial | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
 | Instrumentos.ipynb | Fundamentos de Machine Learning | Pré-Processamento, Modelos | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
 | RECOMENDACAO.ipynb | Sistema de Recomendação de Produtos | Similaridade Vetorial, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
+| Base_de_Dados_YOLO.ipynb | Construção de Base de Dados para a Detecção de Objetos | YOLO, Anotação, Visão Computacional | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Base_de_Dados_YOLO.ipynb) |
 
 
 
@@ -201,6 +202,7 @@ Technical recruiters and data leaders
 | RECONHECIMENTO_FACIAL.ipynb | Facial Recognition and Computer Vision | CNN, Face Detection | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
 | Instrumentos.ipynb | Machine Learning Fundamentals | Preprocessing, Models | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
 | RECOMENDACAO.ipynb | Product Recommendation System | Vector Similarity, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
+| Base_de_Dados_YOLO.ipynb | Dataset Construction for Object of Detection | YOLO, Annotation, Computer Vision | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Base_de_Dados_YOLO.ipynb) |
 
 
 
