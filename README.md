@@ -87,6 +87,15 @@ Pesquisadores interessados em Visão Computacional
 Recrutadores técnicos e gestores de dados
 
 
+## 📂 Projetos Disponíveis
+
+| Projeto | Tema | Técnicas |
+|------|------|--------|
+| Dimensionalidade_Imagens.ipynb | Redução de dimensionalidade em imagens | PCA, CNN, embeddings |
+| MATRIZ_CONFUSAO.ipynb | Avaliação de classificadores | Matriz de confusão, métricas |
+| RECONHECIMENTO_FACIAL.ipynb | Visão computacional | CNN, detecção facial |
+| Instrumentos.ipynb | Fundamentos de ML | Pré-processamento, modelos |
+
 
 # 🇺🇸 English Version
 
@@ -178,3 +187,15 @@ Data Science, Engineering, and Computer Science students
 Machine Learning and AI professionals
 Researchers interested in Computer Vision
 Technical recruiters and data leaders
+
+
+
+##📂 🇺🇸 Available Projects
+
+| Project | Topic | Techniques |
+|--------|-------|-----------|
+| Dimensionalidade_Imagens.ipynb | Image dimensionality reduction | PCA, CNN, embeddings |
+| MATRIZ_CONFUSAO.ipynb | Classification model evaluation | Confusion matrix, metrics |
+| RECONHECIMENTO_FACIAL.ipynb | Facial recognition and computer vision | CNN, face detection |
+| Instrumentos.ipynb | Machine Learning fundamentals | Preprocessing, models |
+
