@@ -95,6 +95,7 @@ Recrutadores técnicos e gestores de dados
 | MATRIZ_CONFUSAO.ipynb | Avaliação de Modelos de Classificação | Matriz de Confusão, Métricas | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/MATRIZ_CONFUSAO.ipynb) |
 | RECONHECIMENTO_FACIAL.ipynb | Reconhecimento Facial e Visão Computacional | CNN, Detecção Facial | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
 | Instrumentos.ipynb | Fundamentos de Machine Learning | Pré-Processamento, Modelos | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
+| RECOMENDACAO.ipynb | Sistema de Recomendação de Produtos | Similaridade Vetorial, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
 
 
 
@@ -199,6 +200,7 @@ Technical recruiters and data leaders
 | MATRIZ_CONFUSAO.ipynb | Classification Model Evaluation | Confusion Matrix, Metrics | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/MATRIZ_CONFUSAO.ipynb) |
 | RECONHECIMENTO_FACIAL.ipynb | Facial Recognition and Computer Vision | CNN, Face Detection | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECONHECIMENTO_FACIAL.ipynb) |
 | Instrumentos.ipynb | Machine Learning Fundamentals | Preprocessing, Models | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
+| RECOMENDACAO.ipynb | Product Recommendation System | Vector Similarity, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
 
 
 
