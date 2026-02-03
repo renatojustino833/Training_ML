@@ -97,6 +97,7 @@ Recrutadores técnicos e gestores de dados
 | Instrumentos.ipynb | Fundamentos de Machine Learning | Pré-Processamento, Modelos | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
 | RECOMENDACAO.ipynb | Sistema de Recomendação de Produtos | Similaridade Vetorial, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
 | Base_de_Dados_YOLO.ipynb | Construção de Base de Dados para a Detecção de Objetos | YOLO, Anotação, Visão Computacional | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Base_de_Dados_YOLO.ipynb) |
+| Reconhecimento_Audio.ipynb | Reconhecimento de Fala e Assistente Virtual | Speech to Text, Text to Speech, PLN, Comandos por Voz | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Reconhecimento_Audio.ipynb) |
 
 
 
@@ -203,6 +204,7 @@ Technical recruiters and data leaders
 | Instrumentos.ipynb | Machine Learning Fundamentals | Preprocessing, Models | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Instrumentos.ipynb) |
 | RECOMENDACAO.ipynb | Product Recommendation System | Vector Similarity, Embeddings, ML | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/RECOMENDACAO.ipynb) |
 | Base_de_Dados_YOLO.ipynb | Dataset Construction for Object of Detection | YOLO, Annotation, Computer Vision | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Base_de_Dados_YOLO.ipynb) |
+| Reconhecimento_Audio.ipynb | Speech Recognition and Virtual Assistant | Speech to Text, Text to Speech, NLP, Voice Commands | [▶️ Open in Colab](https://colab.research.google.com/github/renatojustino833/Training_ML/blob/main/Reconhecimento_Audio.ipynb) |
 
 
 
